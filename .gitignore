@@ -1,0 +1,36 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Android Studio
+# (Para projetos Android)
+*.apk
+*.ap_ 
+*.dex
+*.class
+*.so
+*.jar
+*.db
+
+# Kotlin Compiler
+out/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração do Gradle Wrapper
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Outros arquivos temporários
+*.swp
